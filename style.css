@@ -89,7 +89,15 @@ body {
   color: #333;
 }
 
-.bg-light {
+.bg-dark {
   background: #333;
   color: #f4f4f4;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer {
+  padding: 2.2rem;
 }
