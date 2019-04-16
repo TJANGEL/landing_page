@@ -1,6 +1,6 @@
 # landing_page
 
-Basic landing page website that is fully responsive on browser, mobile and lanscape.
+Basic landing page that is fully responsive on browser, mobile and landscape.
 
 ## Built with
 
